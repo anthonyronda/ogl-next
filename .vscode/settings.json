@@ -1,0 +1,13 @@
+{
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[plaintext]": {
+        "editor.defaultFormatter": "stkb.rewrap",
+        "rewrap.autoWrap.enabled": true,
+        "editor.rulers": [80]
+    }
+}
